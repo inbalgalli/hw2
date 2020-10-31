@@ -9,6 +9,7 @@ public class Assignment02Q01 {
 			int first = first_char;
 			if (first % 3 == 0 && first % 2 == 0) {
 				System.out.println(first_char);
+			System.out.println ("Im on Git bitches")
 			}
 		}
 	}
